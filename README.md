@@ -1,6 +1,5 @@
 ## Hi I'm Chris! 👋
 
-<!--
 🌍 Cloud Data Engineer | 💻 Lifelong Learner | 🚀 Exploring Programming and Cloud Technologies
 
 I'm a Cloud Data Engineer with an interest in programming, automation, and building data-driven solutions. This GitHub profile is where I share my personal projects, learning experiments, and development journey. 
@@ -25,4 +24,3 @@ Machine learning Projects: Building machine learning models to analyze large dat
 DevOps: Exploring continuous integration and delivery (CI/CD) with GitHub Actions and Jenkins.
 
 Feel free to explore my repositories, give feedback, or collaborate on interesting projects! I'm always eager to learn and grow with the developer community. 😄
--->
