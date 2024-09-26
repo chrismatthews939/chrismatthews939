@@ -22,6 +22,6 @@ Cloud-native Applications: Building serverless and container-based apps.
 Automation Projects: Automating cloud infrastructure using Terraform and Python.
 Data Engineering Projects: Designing scalable data pipelines and solutions.
 Machine learning Projects: Building machine learning models to analyze large datasets, and deploying ML models. I'll be exploring how to use ML in real-world problems, such as predictive analytics and recommendation systems.
-DevOps: Exploring continuous integration and delivery (CI/CD) with GitHub Actions and Jenkins.
+DevOps: Exploring continuous integration and delivery (CI/CD) with GitHub.
 
 Feel free to explore my repositories, give feedback, or collaborate on interesting projects! I'm always eager to learn and grow with the developer community. 😄
